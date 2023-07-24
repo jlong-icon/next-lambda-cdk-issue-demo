@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@aws-cdk/aws-apigatewayv2-alpha": "^2.88.0-alpha.0",
+    "@aws-cdk/aws-apigatewayv2-integrations-alpha": "^2.88.0-alpha.0",
     "@sladg/imaginex-lambda": "^0.17.0",
     "@sladg/nextjs-lambda": "^7.0.6",
     "aws-cdk-lib": "2.86.0",
